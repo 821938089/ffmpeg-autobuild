@@ -1,7 +1,7 @@
-[submodule "ffmpeg-windows-build-helpers"]
-	path = ffmpeg-windows-build-helpers
-	url = git@github.com:rdp/ffmpeg-windows-build-helpers.git
 [submodule "ffmpeg-source"]
 	path = ffmpeg-source
 	url = https://github.com/821938089/FFmpeg
 	branch = release/4.0
+[submodule "ffmpeg-windows-build-helpers"]
+	path = ffmpeg-windows-build-helpers
+	url = https://github.com/821938089/ffmpeg-windows-build-helpers
